@@ -10,7 +10,7 @@
 * @version 3.0.0
 */
 
-namespace cinghie\cookieconsent\widgets;
+namespace bestyii\cookieconsent\widgets;
 
 use yii\base\Widget;
 

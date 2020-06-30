@@ -1,5 +1,5 @@
 {
-    "name": "cinghie/yii2-cookie-consent",
+    "name": "bestyii/yii2-cookie-consent",
     "description": "Yii2 Cookie Consent to alerting users about the use of cookies on your Yii2 website.",
     "keywords": [
         "yii2", 
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "cinghie\\cookieconsent\\": ""
+            "bestyii\\cookieconsent\\": ""
         }
     }
 }

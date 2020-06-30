@@ -17,13 +17,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-$ php composer.phar require cinghie/yii2-cookie-consent "^1.5.1"
+$ php composer.phar require bestyii/yii2-cookie-consent "^1.5.1"
 ```
 
 or add in composer.json
 
 ```
-"cinghie/yii2-cookie-consent": "^1.5.1"
+"bestyii/yii2-cookie-consent": "^1.5.1"
 ```
 
 Insert Widget
@@ -32,7 +32,7 @@ Insert Widget
 You can load the CookieConsent Widget like this:
 
 ```
-use cinghie\cookieconsent\widgets\CookieWidget;
+use bestyii\cookieconsent\widgets\CookieWidget;
 
 <?= CookieWidget::widget([
 	'message' => 'This website uses cookies to ensure you get the best experience on our website.',

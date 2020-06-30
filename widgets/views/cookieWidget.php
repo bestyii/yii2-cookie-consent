@@ -11,7 +11,7 @@
  * @var string $theme
  */
 
-use cinghie\cookieconsent\assets\CookieAsset;
+use bestyii\cookieconsent\assets\CookieAsset;
 
 // Load Articles Assets
 CookieAsset::register($this);
